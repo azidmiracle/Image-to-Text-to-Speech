@@ -16,6 +16,8 @@ There is a speaker icon where the text will be converted to voice.
 
 Framework: Apache Cordova/Phonegap
 
+UI: Mobile UI
+
 API: cordova-plugin-mobile-ocr, cordova-plugin-texttospeech and cordova-plugin-camera
 
 
